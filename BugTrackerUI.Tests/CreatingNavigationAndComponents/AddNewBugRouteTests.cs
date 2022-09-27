@@ -1,9 +1,6 @@
 ﻿using BugTrackerUI.Tests;
 using HtmlAgilityPack;
-using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Text;
 using Xunit;
 
 namespace M2_BugTrackerUI.Tests.CreatingNavigationAndComponents
